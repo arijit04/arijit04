@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular 10+, Loopback 4, Node, Spring boot, Projects.
-- 👯 I’m looking to collaborate on any new project.
+- 🔭 I’m currently working on Angular 10+, Loopback 4, Node, Spring boot, web 3 Projects.
+- 👯 I’m looking to collaborate on any new projects.
 - 🤔 I’m looking for help with AR & VR, AI, ML.
 
 <!-- - 💬 Ask me about ...
